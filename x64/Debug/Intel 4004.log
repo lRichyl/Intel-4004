@@ -1,5 +1,0 @@
-﻿  CPU_4004.cpp
-C:\Users\xbox3\source\repos\Intel 4004\Intel 4004\CPU_4004.cpp(12,44): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-C:\Users\xbox3\source\repos\Intel 4004\Intel 4004\CPU_4004.cpp(58,36): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
-C:\Users\xbox3\source\repos\Intel 4004\Intel 4004\CPU_4004.cpp(64,32): warning C4244: 'inicializando': conversión de 'uint16_t' a 'uint8_t'; posible pérdida de datos
-  Intel 4004.vcxproj -> C:\Users\xbox3\source\repos\Intel 4004\x64\Debug\Intel 4004.exe
